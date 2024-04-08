@@ -1,16 +1,5 @@
-# clubhouse
+# Clubhouse App Ui
 
-A new Flutter project.
+![Screenshot_20240408-103252](https://github.com/MayarTSABET/Clubhouse-app-ui/assets/127050347/59faf5b3-84f6-4eff-a1fd-f71e36a78b73)
+![Screenshot_20240408-103438](https://github.com/MayarTSABET/Clubhouse-app-ui/assets/127050347/28e7cfa1-c191-4671-8f4b-9ee445456df9)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
